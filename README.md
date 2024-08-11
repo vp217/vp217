@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vp217
-- 👀 I’m interested in ...Programming.
-- 🌱 I’m currently learning ...Advanced Python.
+- 👋 Hi, I’m @vp217 ## Vikas Prajapati
+- 👀 I’m interested in ...Programming, Linux, Automation and mentaining pipelines CI/CD, Micro services
+- 🌱 I’m currently learning ...Open CV in advance.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...via LinkedIn, Whatshap,gmail,github,telegram,Instagram, etc .
 
